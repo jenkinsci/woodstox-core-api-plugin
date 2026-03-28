@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    This plugin provides <a href="https://github.com/FasterXML/woodstox">Woodstox</a> (v${revision}) to other plugins.
+</div>
